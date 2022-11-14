@@ -9832,6 +9832,13 @@ textarea {
       padding-bottom: 3rem; } }
   .section .subheading {
     color: #f17945; }
+
+    /* about */
+    .abt {
+      font-size: 46px;
+      color: #343661;
+      font-weight: 700; }
+
   .section .heading {
     font-size: 46px;
     color: #343661;
